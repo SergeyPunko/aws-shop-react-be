@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "title": "Milk",
+        "description": "description",
+        "price": 3,
+        "count": 5
+    },
+    {
+        "id": "2",
+        "title": "Bread",
+        "description": "description",
+        "price": 6,
+        "count": 4
+    },
+    {
+        "id": "3",
+        "title": "Eggs",
+        "description": "description",
+        "price": 7,
+        "count": 3
+    },
+    {
+        "id": "4",
+        "title": "Water",
+        "description": "description",
+        "price": 2,
+        "count": 2
+    }
+]
